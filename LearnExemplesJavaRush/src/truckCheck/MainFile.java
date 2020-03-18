@@ -20,6 +20,7 @@ public class MainFile {
 		System.out.println("Truck nr. 2! ");
 		boolean canSecondTuckGo = officer.CheckTruck(second);
 		System.out.println(canSecondTuckGo);
+		System.out.println("ggh");
 
 	}
 
